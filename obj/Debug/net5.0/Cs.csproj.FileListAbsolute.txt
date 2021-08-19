@@ -1,0 +1,16 @@
+D:\code 區域\C#\Cs\bin\Debug\net5.0\Cs.exe
+D:\code 區域\C#\Cs\bin\Debug\net5.0\Cs.deps.json
+D:\code 區域\C#\Cs\bin\Debug\net5.0\Cs.runtimeconfig.json
+D:\code 區域\C#\Cs\bin\Debug\net5.0\Cs.runtimeconfig.dev.json
+D:\code 區域\C#\Cs\bin\Debug\net5.0\Cs.dll
+D:\code 區域\C#\Cs\bin\Debug\net5.0\ref\Cs.dll
+D:\code 區域\C#\Cs\bin\Debug\net5.0\Cs.pdb
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.csproj.AssemblyReference.cache
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.AssemblyInfoInputs.cache
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.AssemblyInfo.cs
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.csproj.CoreCompileInputs.cache
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.dll
+D:\code 區域\C#\Cs\obj\Debug\net5.0\ref\Cs.dll
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.pdb
+D:\code 區域\C#\Cs\obj\Debug\net5.0\Cs.genruntimeconfig.cache
