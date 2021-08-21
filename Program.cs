@@ -22,10 +22,29 @@ namespace Cs
             sb.Replace('H','h');//替換前面參數是要替換的字
             Console.WriteLine(list.Capacity);
             sb.Insert(0,"owo ");//插入
+            /*
             foreach(string i in list){
             Console.WriteLine(i);
             }
+            */
             
         }
+    }
+    class part {
+       public string partname{get; set; } 
+       public string partid{get;   set;}
+       public override string ToString(){
+           return "partname:"+partname+"ID"+partid;
+       }
+       public override bool Equals(object obj){
+           if(obj==null){return false;}
+           part objAspart = obj as part;
+           if(objAspart==null){return false;}
+           else return Equals(objAspart);
+       
+       }
+       
+
+
     }
 }
