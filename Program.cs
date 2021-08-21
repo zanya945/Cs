@@ -32,7 +32,7 @@ namespace Cs
     }
     class part {
        public string partname{get; set; } 
-       public string partid{get;   set;}
+       public int partid{get;   set;}
        public override string ToString(){
            return "partname:"+partname+"ID"+partid;
        }
@@ -43,7 +43,14 @@ namespace Cs
            else return Equals(objAspart);
        
        }
-       
+       public override int GetHashCode(){
+
+           return partid;
+       }
+       public bool Equals(part other){
+           if(other==null){return false;}
+           return(this.partid.Equals(other.partid));
+       }
 
 
     }
